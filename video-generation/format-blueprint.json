@@ -1,0 +1,21 @@
+{
+  "project_type": "video_generation",
+  "temporal_settings": {
+    "duration_seconds": "float (The exact length of the video clip generation)",
+    "target_fps": "integer (The frame rate, usually 24, 30, or 60)"
+  },
+  "scene_setup": {
+    "environment": "string (Describe the baseline physical setting or background environment)",
+    "atmosphere": "string (Describe the mood, weather, air quality, or overall vibe)",
+    "key_actors": "string (Identify who or what is moving inside the scene frame)"
+  },
+  "camera_physics": {
+    "movement_vector": "string (Specify precise camera motion: e.g., Slow pan left, crane up, dolly zoom)",
+    "lens_type": "string (e.g., 50mm cinematic prime, wide-angle lens, anamorphic distortion)",
+    "pacing": "string (e.g., Constant linear velocity, dynamic ease-in, steady lock-on tracking)"
+  },
+  "particle_dynamics": {
+    "fluid_simulation": "string (Describe how liquids or moving elements react over time)",
+    "gaseous_simulation": "string (Describe how smoke, fog, fire, or dust behaves over time)"
+  }
+}
