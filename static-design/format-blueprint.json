@@ -1,0 +1,18 @@
+{
+  "project_type": "static_visual_design",
+  "composition": {
+    "subject": "string (Describe the primary focal point, object, or character here)",
+    "framing": "string (e.g., Close-up, wide shot, aerial view, macro)",
+    "placement": "string (e.g., Rule of thirds, centered, foreground depth)"
+  },
+  "aesthetic_style": {
+    "art_direction": "string (e.g., Minimalism, Renaissance oil painting, vintage vaporwave)",
+    "color_palette": ["array of hex codes or explicit color names"],
+    "lighting": "string (e.g., Golden hour, harsh studio key light, moody chiaroscuro)",
+    "surface_textures": "string (e.g., Brushed gold, wet marble, rough concrete, matte plastic)"
+  },
+  "technical_render": {
+    "aspect_ratio": "string (e.g., 16:9, 1:1, 4:5)",
+    "engine_modifiers": "string (e.g., Photorealistic camera settings, specific engine or renderer style)"
+  }
+}
