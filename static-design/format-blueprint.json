@@ -1,4 +1,13 @@
 {
+  "__INSTRUCTION__": "Analyze this JSON schema. Use it strictly as a structural format contract. Do not copy the placeholder data strings inside the keys; replace them entirely with the user's project parameters.",
+  "project_type": "static_visual_design",
+  "composition": {
+    "subject": "string",
+    "framing": "string"
+  }
+}
+
+{
   "project_type": "static_visual_design",
   "composition": {
     "subject": "string (Describe the primary focal point, object, or character here)",
