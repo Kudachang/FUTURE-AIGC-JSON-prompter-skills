@@ -8,13 +8,15 @@ A structured repository of production-ready JSON schemas optimized for AI visual
 
 - 🎨 **[Static Visual Design Folder](./static-design/)**
   - 👉 [Download Macro Design Skill Template](./static-design/macro-design-skill.json) — *Best for macro objects, textures, and product renders.*
-- 🎬 **[AIGC Video Generation Folder](./video-generation/)**
-  - 👉 [Download Cyberpunk Video Skill Template](./video-generation/cyberpunk-video-skill.json) — *Best for enforcing camera physics and environmental simulations.*
+## 📦 Repository Structure & Quick Links
 
----
+- 🎨 **[Static Visual Design Schemas](./static-design/)**
+  - 👉 [Download Schema Blueprint](./static-design/format-blueprint.json) — *Manages objects, textures, and framing.*
+  - 👉 [View Style Reference Example](./static-design/example) — *Cyberpunk hummingbird macro case study.*
+- 🎬 **[AIGC Video Generation Schemas](./video-generation/)**
+  - 👉 [Download Video Blueprint](./video-generation/format-blueprint.json) — *Handles camera movement and temporal settings.*
+  - 👉 [View Motion Reference Example](./video-generation/example) — *Rainy Tokyo tracking shot case study.*
 
-## 🛠️ Credits & Inspiration
-This repository incorporates design principles and asset definitions derived from:
 - [JSON Prompter by Afzal7](https://github.com) 
 - [JSON Prompt Gen by SolvingTools](https://github.com)
 
